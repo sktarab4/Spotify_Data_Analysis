@@ -5,7 +5,7 @@
 ![Spotify Logo](https://github.com/najirh/najirh-Spotify-Data-Analysis-using-SQL/blob/main/spotify_logo.jpg)
 
 ## Overview
-This project focuses on analyzing a Spotify dataset containing various attributes of tracks, albums, and artists using SQL. It involves the complete process of normalizing a denormalized dataset, executing SQL queries of varying complexity (from basic to advanced), and optimizing query performance. The main objectives are to enhance SQL proficiency and extract meaningful insights from the dataset.
+This project focuses on analyzing a Spotify dataset containing various attributes of tracks, albums, and artists using SQL. It involves the complete process of normalizing a denormalized dataset, executing SQL queries of varying complexity (from basic to advanced), and optimizing query performance. The main objective is to enhance SQL proficiency and extract meaningful insights from the dataset.
 
 ## Objective
 - Normalize a denormalized Spotify dataset into an optimized relational structure.
