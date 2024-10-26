@@ -75,7 +75,7 @@ In advanced stages, the focus shifts to improving query performance. Some optimi
   
 ---
 
-## 15 Practice Questions
+## Business Problems & Solutions
 
 ### Easy Level
 ```sql
